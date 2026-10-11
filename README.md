@@ -171,8 +171,8 @@ The ELEVATOR-RCA team combines software development, AI-oriented diagnostic desi
 
 | Team Member | Role | Responsibilities |
 |---|---|---|
-| **M Huzaifa** | Lead Developer & System Integration | Application development, UI integration, simulation workflow, and project coordination |
+| **Hrithik K** | Lead Developer & System Integration | Application development, UI integration, simulation workflow, and project coordination |
 | **S Yashwanth Raaj** | AI & Causal Reasoning Engineer | Diagnostic logic, causal reasoning concepts, and explainability of fault-analysis outputs |
-| **Hrithik K** | Testing & Validation Engineer | Scenario testing, checking diagnostic behaviour, reviewing interface interactions, and documenting limitations |
+| **M Huzefa** | Testing & Validation Engineer | Scenario testing, checking diagnostic behaviour, reviewing interface interactions, and documenting limitations |
 
 **Project status:** This academic prototype uses simulated sensor data and deterministic, rule-based diagnostic logic. It has not been validated as an industrial elevator safety or maintenance system.
