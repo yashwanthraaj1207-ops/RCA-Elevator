@@ -162,3 +162,17 @@ Although V1 strictly avoids unnecessary complexity and black-box models, the cod
 - **Phase 2:** Unsupervised Machine Learning for Anomaly Detection (Autoencoders & Isolation Forests).
 - **Phase 3:** Automated Causal Discovery DAGs (PC algorithm & Structural Causal Models).
 - **Phase 4:** Counterfactual Inference & Pearl's *do-calculus* for predictive maintenance.
+
+---
+
+## 👥 Project Team
+
+The ELEVATOR-RCA team combines software development, AI-oriented diagnostic design, and systematic testing to build an explainable elevator fault-analysis prototype.
+
+| Team Member | Role | Responsibilities |
+|---|---|---|
+| **M Huzaifa** | Lead Developer & System Integration | Application development, UI integration, simulation workflow, and project coordination |
+| **S Yashwanth Raaj** | AI & Causal Reasoning Engineer | Diagnostic logic, causal reasoning concepts, and explainability of fault-analysis outputs |
+| **Hrithik K** | Testing & Validation Engineer | Scenario testing, checking diagnostic behaviour, reviewing interface interactions, and documenting limitations |
+
+**Project status:** This academic prototype uses simulated sensor data and deterministic, rule-based diagnostic logic. It has not been validated as an industrial elevator safety or maintenance system.
